@@ -11,7 +11,7 @@ function animate () {
 		
 		if(flag === 1){
 			star += "*";
-			console.log(star);
+			console.log(star); 	
 			// document.write(star + "<br>");
 			if (star.length > max_no_star) {
 				flag = 0;
